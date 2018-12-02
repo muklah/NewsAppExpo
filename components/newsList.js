@@ -3,7 +3,7 @@ import { View } from "react-native";
 
 export default class NewsList extends Component {
     render() {
-        return <View style={{ flex:1, backgroundColor:"yellow"}}/>;
+        return <View style={{ flex:1, backgroundColor:"white"}}/>;
 
     }
 }
